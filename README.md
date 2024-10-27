@@ -9,12 +9,7 @@ The objective of this project is to build a web application to manage employee r
 
 2.1 Employee Data Capture
 
-The following information must be captured for each employee:
-First Name
-Last Name
-Date of Birth
-Address
-Department
+The following information must be captured for each employee: First Name, Last Name, Date of Birth, Address and Department
 
 2.2 Department Management
 
